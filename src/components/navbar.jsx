@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="logo">
         <Link href="/">anbtech.xyz</Link>
       </div>
-      <a href="films.anbtech.xyz" className="cta-btn">
+      <a href="https://films.anbtech.xyz/" className="cta-btn">
         Films
       </a>
     </div>
