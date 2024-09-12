@@ -27,10 +27,6 @@ const Skills = () => {
           <i className="fa-brands fa-python python-icon"></i>
           <p>Python</p>
         </div>
-        <div className="skill-card flutter">
-          <i className="fa-brands fa-flutter flutter-icon"></i>
-          <p>Flutter</p>
-        </div>
       </div>
     </div>
   );
