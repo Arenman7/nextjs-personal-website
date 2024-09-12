@@ -29,7 +29,7 @@ const Skills = () => {
         </div>
         <div className="skill-card flutter">
           <i className="fa-brands fa-flutter"></i>
-          <p>Flutter</p>
+          <p>Flutter test</p>
         </div>
       </div>
     </div>
