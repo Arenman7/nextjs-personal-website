@@ -7,7 +7,11 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Welcome👋</h1>
         <p>
-          Click <a href="https://films.anbtech.xyz/">here</a> for films.
+          Click
+          <a href="https://films.anbtech.xyz/">
+            <b>here</b>
+          </a>
+          for films.
         </p>
 
         <div className="social-icons">
