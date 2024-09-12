@@ -9,7 +9,7 @@ const Hero = () => {
         <p>
           Click
           <a href="https://films.anbtech.xyz/">
-            <b>here</b>
+            <b> here </b>
           </a>
           for films.
         </p>
