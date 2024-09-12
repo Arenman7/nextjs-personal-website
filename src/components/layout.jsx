@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Aren's Developer Portfolio</title>
+        <title>anbtech.xyz</title>
         <meta name="description" content="Aren's Portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -19,9 +19,9 @@ const Home = () => {
       <div>
         <Navbar />
         <Hero />
-        //<About />
+        // <About />
         <Skills />
-        //<Projects />
+        // <Projects />
         <Contact />
         <Footer />
       </div>
