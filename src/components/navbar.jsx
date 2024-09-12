@@ -7,7 +7,7 @@ const Navbar = () => {
         <Link href="/">anbtech.xyz</Link>
       </div>
       <a href="https://films.anbtech.xyz/" className="cta-btn">
-        Films
+        Watch Films
       </a>
     </div>
   );

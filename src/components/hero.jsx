@@ -6,10 +6,10 @@ const Hero = () => {
       {/*<Image src='/images/profile.jpeg' className="profile-img" width={300} height={300} alt="Joe's personal headshot" />*/}
       <div className="hero-text">
         <h1>Welcome👋</h1>
-        <p>Click below for films.</p>
-        <a href="https://films.anbtech.xyz/" className="cta-btn">
-          Films
-        </a>
+        <p>
+          Click <a href="https://films.anbtech.xyz/">here</a> for films.
+        </p>
+
         <div className="social-icons">
           <a
             href="https://github.com/arenman7"
