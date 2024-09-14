@@ -25,6 +25,9 @@ const Hero = () => {
           </a>
         </div>
       </div>
+      <div className="scroll_down">
+        <p>Scroll down!</p>
+      </div>
     </div>
   );
 };
